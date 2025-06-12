@@ -18,7 +18,7 @@ Olá! Esse repositório reúne os códigos e anotações que produzi durante o c
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/izaandrade/python-for-cybersec.git
 2. Acesse a pasta do tópico e execute o script desejado:
    ```bash
    cd nome-da-pasta
