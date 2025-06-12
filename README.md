@@ -8,7 +8,7 @@ Olá! Esse repositório reúne os códigos e anotações que produzi durante o c
 - 🔐 **hashing passwords** — Técnicas para hashing e validação de senhas
 - 📁 **files** — Manipulação de arquivos e logs
 - ✉️ **email** — Envio e automação de e-mails via Python
-- 🖧 **redes** — Scripts para trabalhar com protocolos de rede
+- 🖧 **network** — Scripts para trabalhar com protocolos de rede
 - 🔌 **sockets** — Comunicação entre dispositivos usando sockets
 - ⚙️ **scripting** — Automação de tarefas de segurança
 - 🐍 **OOP** — Programação Orientada a Objetos aplicada à segurança
